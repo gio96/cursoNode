@@ -1,0 +1,16 @@
+{
+  "name": "tarea",
+  "version": "1.0.0",
+  "description": "Primer trabajo curso node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanny Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^15.1.1",
+    "yargs": "^13.2.4"
+  }
+}
