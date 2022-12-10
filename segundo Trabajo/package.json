@@ -9,7 +9,7 @@
   "author": "Giovanny Gomez",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsdom": "^15.1.1",
     "yargs": "^13.2.4"
   }
